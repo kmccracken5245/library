@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Library {
+public class VhsTapesArtist {
 	
 
 	public static void main(String[] args) {

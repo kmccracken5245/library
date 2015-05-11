@@ -12,7 +12,7 @@
 	public void settitle (String title);
 	
 	public String codenumber ();
-	public void setcodenumber ();
+	public void setcodenumber (String codenumber);
 		
 		
 	}
