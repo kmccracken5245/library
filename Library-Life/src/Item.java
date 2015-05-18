@@ -11,8 +11,13 @@
 	public String title ();
 	public void settitle (String title);
 	
+	public String author ();
+	public void setauthor (String Author);
+	
 	public String codenumber ();
 	public void setcodenumber (String codenumber);
+	
+	
 		
 		
 	}
